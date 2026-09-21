@@ -7,7 +7,7 @@
 
      function saludoPersonalizado() {
 
-          return "Hola desde master";
+          return "Hola desde master otra vez";
 
      }
 ?>
