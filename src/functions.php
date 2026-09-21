@@ -7,7 +7,7 @@
 
      function saludoPersonalizado() {
 
-          return "Hola Alex, bienvenido a mi proyecto";
+          return "Hola desde master";
      }
 
 ?>
